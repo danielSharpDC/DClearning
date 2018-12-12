@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_dcc"/>
+    <item
+        android:id="@+id/profile"
+        android:title="My profile"
+        android:icon="@drawable/ic_person_dcc"/>
+    <item
+        android:id="@+id/disc"
+        android:title="Chats"
+        android:icon="@drawable/ic_chat_dcc"/>
+    <item
+        android:id="@+id/Groups"
+        android:title="My Groups"
+        android:icon="@drawable/ic_group_dcc"/>
+</group>
+</menu>
